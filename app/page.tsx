@@ -200,7 +200,7 @@ export default function HomePage() {
           <div>
             <h4 className="text-md font-semibold text-[#f5d48e] mb-2">Contact Us</h4>
             <p className="text-sm text-gray-300 flex items-center gap-2">
-              📞 Phone: <a href="tel:+251900000000" className="underline hover:text-white">+251 900 000 000</a>
+              📞 Phone: <a href="tel:0988292698" className="underline hover:text-white">+251 900 000 000</a>
             </p>
             <p className="text-sm text-gray-300 mt-1">📍 Location: Bole, Addis Ababa</p>
           </div>
