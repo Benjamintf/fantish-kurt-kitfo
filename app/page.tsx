@@ -209,13 +209,11 @@ export default function HomePage() {
           <div>
             <h4 className="text-md font-semibold text-[#f5d48e] mb-2">Social Media</h4>
             <div className="flex flex-col gap-1 text-sm text-gray-300">
-              <a href="https://t.me/your_telegram" target="_blank" rel="noopener noreferrer" className="hover:text-[#f5d48e]">
+              <a href="https://t.me/tk_digital_market" target="_blank" rel="noopener noreferrer" className="hover:text-[#f5d48e]">
                 🔵 Telegram Channel
               </a>
-              <a href="https://tiktok.com/@your_tiktok" target="_blank" rel="noopener noreferrer" className="hover:text-[#f5d48e]">
-                ⬛ TikTok
-              </a>
-              <a href="https://facebook.com/your_facebook" target="_blank" rel="noopener noreferrer" className="hover:text-[#f5d48e]">
+          
+              <a href="https://web.facebook.com/amare.kfle.94" target="_blank" rel="noopener noreferrer" className="hover:text-[#f5d48e]">
                 🟦 Facebook Page
               </a>
             </div>
